@@ -52,12 +52,19 @@
 
 footer {
     background-color: rgb(204, 202, 202);
-    text-align: center;
+    
 }
 
+.social-icons span{
+    text-align: left;
+    font-size: 20px;
+    padding-right: 400px;
+    color: white;
+}
 .social-icons {
     font-size: 36px;
     cursor: pointer;
+    color: white;
 }
 
 
